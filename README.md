@@ -19,7 +19,7 @@ A Python script that generates QR codes from user input and visualizes them dire
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/qrcode-generator.git
+   git clone https://github.com/23blueberrycoww23/QRCoder.git
    cd qrcode-generator
    ```
 
