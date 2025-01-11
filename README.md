@@ -32,7 +32,7 @@ A Python script that generates QR codes from user input and visualizes them dire
 
 1. Run the script:
    ```bash
-   python generate_qr_code.py
+   python QRCODER.py
    ```
 
 2. Enter the text or URL you want to generate a QR code for when prompted.
